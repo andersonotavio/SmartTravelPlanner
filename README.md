@@ -90,6 +90,3 @@ Contribuições são o que tornam a comunidade de código aberto um lugar incrí
 4.  Faça o *push* para a *branch* (`git push origin feature/AmazingFeature`)
 5.  Abra um *Pull Request*
 
-## 📄 Licença
-
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
