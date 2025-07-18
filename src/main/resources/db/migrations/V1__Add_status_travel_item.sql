@@ -1,7 +1,0 @@
-CREATE TABLE travel_item (
-    id BIGINT PRIMARY KEY AUTO_INCREMENT,
-    origem VARCHAR(255) NOT NULL,
-    destino VARCHAR(255) NOT NULL,
-    orcamento DECIMAL(10, 2) NOT NULL,
-    dias INT NOT NULL
-);
